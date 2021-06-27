@@ -5,7 +5,6 @@ metadata:
   labels:
     environment: production
     app: nginx
-    demo: "true"
 spec:
   containers:
   - name: helloworld
